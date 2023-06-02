@@ -84,3 +84,10 @@ form {
         background-color: DarkSalmon;
         color: white;
       }
+
+      .flex {
+        display: flex;
+        border-radius: none;
+        padding: 10px;
+        margin-right: 10px;
+      }
